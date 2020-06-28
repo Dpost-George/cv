@@ -1,0 +1,49 @@
+/***********************TAG SELECTION*******************/
+    body{
+      background-color:#eaf6f6;
+      text-align: center;
+    }
+    hr{
+      border: dotted #abf0e9 4px;
+      border-top: none;
+      width: 5%;
+      margin: 10px auto;
+    }
+    h1,h3{
+      color: #66bfbf;
+    }
+    /*h2{
+      color:#679b9b;
+    }*/
+    th {
+      background-color: #679b9b;
+      color: #66bfbf;
+    }
+    th:hover{
+      background-color: gold;
+    }
+    table{
+    border-spacing:2px 0.4rem;
+    margin: auto;
+    text-align: left;
+    }
+
+    img{
+      background-color: #66bfbf
+    }
+    img:hover{
+      background-color: gold;
+    }
+/*******************Class selection********many time use************/
+.profile-pict{
+  background-color: #679b9b;
+  width: 140px;
+  height: 140px;
+}
+.headtable{
+  border-spacing:10px;
+}
+/******************ID Selector********One time use****************/
+#heading {
+  color: #679b9b;
+}
